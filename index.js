@@ -23,5 +23,5 @@ fetch ('https://api.openweathermap.org/data/2.5/weather?q='+inputValue.value+'&a
 
 })
 
-.catch(err => alert("Wrong coty Name!")) 
+.catch(err => alert("Wrong city Name!")) 
 })
